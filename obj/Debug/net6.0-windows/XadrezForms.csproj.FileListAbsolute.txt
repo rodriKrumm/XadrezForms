@@ -1,0 +1,17 @@
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\bin\Debug\net6.0-windows\XadrezForms.exe
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\bin\Debug\net6.0-windows\XadrezForms.deps.json
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\bin\Debug\net6.0-windows\XadrezForms.runtimeconfig.json
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\bin\Debug\net6.0-windows\XadrezForms.dll
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\bin\Debug\net6.0-windows\XadrezForms.pdb
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\obj\Debug\net6.0-windows\XadrezForms.csproj.AssemblyReference.cache
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\obj\Debug\net6.0-windows\XadrezForms.Form1.resources
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\obj\Debug\net6.0-windows\XadrezForms.csproj.GenerateResource.cache
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\obj\Debug\net6.0-windows\XadrezForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\obj\Debug\net6.0-windows\XadrezForms.AssemblyInfoInputs.cache
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\obj\Debug\net6.0-windows\XadrezForms.AssemblyInfo.cs
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\obj\Debug\net6.0-windows\XadrezForms.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\obj\Debug\net6.0-windows\XadrezForms.dll
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\obj\Debug\net6.0-windows\refint\XadrezForms.dll
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\obj\Debug\net6.0-windows\XadrezForms.pdb
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\obj\Debug\net6.0-windows\XadrezForms.genruntimeconfig.cache
+C:\Users\rodrigo.krummenauer\Desktop\Repositories\XadrezForms\obj\Debug\net6.0-windows\ref\XadrezForms.dll
